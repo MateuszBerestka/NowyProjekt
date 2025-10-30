@@ -5,8 +5,7 @@ namespace AIMusicSorter
 {
     public partial class Form1 : Form
     {
-        public FlowLayoutPanel flpTracks;
-        public Button btnLogin;
+    
 
         public void InitializeComponent()
         {
